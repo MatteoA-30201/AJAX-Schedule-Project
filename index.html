@@ -49,7 +49,30 @@
   <div class="container-fluid">
     <div class="homepage-position div-position row" id="Homepage">
       <div class="col d-flex">
-
+        <div class="container">
+          <h1 class="text-center text-color">Where Should I Be Right Now?</h1>
+  
+          <div class="form-group text-color">
+              <label for="dayInput">Select Day (A-G):</label>
+              <input type="text" id="dayInput" class="form-control" placeholder="Enter a day (A-G)">
+              <button id="submitDay" class="btn btn-primary mt-2">Show Schedule</button>
+          </div>
+          <div class="schedule">
+              <h3 class="text-center text-color">Your Schedule for the Day</h3>
+              <table class="table table-bordered table-striped text-color">
+                  <thead>
+                      <tr>
+                          <th>Period</th>
+                          <th>Time</th>
+                          <th>Class</th>
+                          <th>Teacher</th>
+                          <th>Room</th>
+                      </tr>
+                  </thead>
+                  <tbody id="scheduleList"></tbody>
+              </table>
+          </div>
+        </div>
       </div>
     </div>
   </div>
