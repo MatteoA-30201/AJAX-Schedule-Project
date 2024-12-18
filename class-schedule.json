@@ -1,0 +1,65 @@
+[
+  {
+    "className": "Video Editing & Media Prod 1",
+    "teacher": "",
+    "room": "",
+    "period": "",
+    "days": ["A", "B", "C", "D", "E", "F", "G"]
+  },
+
+  {
+    "className": "Italian 3",
+    "teacher": "",
+    "room": "",
+    "period": "",
+    "days": ["A", "B", "C", "D", "E", "F", "G"]
+  },
+  
+  {
+    "className": "Calculus",
+    "teacher": "",
+    "room": "",
+    "period": "",
+    "days": ["A", "B", "C", "D", "E", "F", "G"]
+  },
+  
+  {
+    "className": "Honors NJIT IS219 Advanced Website Development WDPP",
+    "teacher": "",
+    "room": "",
+    "period": "",
+    "days": ["A", "B", "C", "D", "E", "F", "G"]
+  },
+  
+  {
+    "className": "AP English Language & Comp",
+    "teacher": "",
+    "room": "",
+    "period": "",
+    "days": ["A", "B", "C", "D", "E", "F", "G"]
+  },
+  
+  {
+    "className": "AP Physics 1",
+    "teacher": "",
+    "room": "",
+    "period": "",
+    "days": ["A", "B", "C", "D", "E", "F", "G"]
+  },
+  
+  {
+    "className": "Physical Ed 11 Lab",
+    "teacher": "",
+    "room": "",
+    "period": "",
+    "days": ["A", "B", "C", "D", "E", "F", "G"]
+  },
+  
+  {
+    "className": "AP Physics 1",
+    "teacher": "",
+    "room": "",
+    "period": "",
+    "days": ["A", "B", "C", "D", "E", "F", "G"]
+  }
+]
