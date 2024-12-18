@@ -1,65 +1,65 @@
 [
   {
     "className": "Video Editing & Media Prod 1",
-    "teacher": "",
-    "room": "",
-    "period": "",
-    "days": ["A", "B", "C", "D", "E", "F", "G"]
+    "teacher": "McDonald, Ashley",
+    "room": "C104",
+    "period": "1",
+    "days": ["A", "B", "C", "E", "F"]
   },
 
   {
     "className": "Italian 3",
-    "teacher": "",
-    "room": "",
-    "period": "",
-    "days": ["A", "B", "C", "D", "E", "F", "G"]
+    "teacher": "Gundaker, Maddalena",
+    "room": "A117",
+    "period": "2",
+    "days": ["A", "B", "D", "E", "F"]
   },
   
   {
     "className": "Calculus",
-    "teacher": "",
-    "room": "",
-    "period": "",
-    "days": ["A", "B", "C", "D", "E", "F", "G"]
+    "teacher": "Blum, Jason",
+    "room": "B202",
+    "period": "3",
+    "days": ["A", "C", "D", "E", "G"]
   },
   
   {
     "className": "Honors NJIT IS219 Advanced Website Development WDPP",
-    "teacher": "",
-    "room": "",
-    "period": "",
-    "days": ["A", "B", "C", "D", "E", "F", "G"]
+    "teacher": "McDonald, Ashley",
+    "room": "C104",
+    "period": "4",
+    "days": ["B", "C", "D", "F", "G"]
   },
   
   {
     "className": "AP English Language & Comp",
-    "teacher": "",
-    "room": "",
-    "period": "",
-    "days": ["A", "B", "C", "D", "E", "F", "G"]
+    "teacher": "Smith, Faustiene",
+    "room": "B111",
+    "period": "5",
+    "days": ["A", "B", "D", "E", "G"]
   },
   
   {
     "className": "AP Physics 1",
-    "teacher": "",
-    "room": "",
-    "period": "",
-    "days": ["A", "B", "C", "D", "E", "F", "G"]
+    "teacher": "Mogilski, Brett",
+    "room": "D110",
+    "period": "6",
+    "days": "C"
   },
   
   {
     "className": "Physical Ed 11 Lab",
-    "teacher": "",
-    "room": "",
-    "period": "",
-    "days": ["A", "B", "C", "D", "E", "F", "G"]
+    "teacher": "ELLIS, DAVID",
+    "room": "GYM1",
+    "period": "6",
+    "days": ["A", "D", "F", "G"]
   },
   
   {
     "className": "AP Physics 1",
-    "teacher": "",
-    "room": "",
-    "period": "",
-    "days": ["A", "B", "C", "D", "E", "F", "G"]
+    "teacher": "Mogilski, Brett",
+    "room": "D110",
+    "period": "7",
+    "days": ["B", "C", "E", "F", "G"]
   }
 ]
