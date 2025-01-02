@@ -21,15 +21,16 @@ inputField.change(function(){
 });
 
 function appendClasses(data) {
-  var tr1 = $("<tr></tr>").text(data[i].className);
-  var tr1 = $("<tr></tr>").text("");
-  var tr1 = $("<tr></tr>").text("");
-  var tr1 = $("<tr></tr>").text("");
-  var tr1 = $("<tr></tr>").text("");
 
+  // Function to filter classes for a specific day
+function getClassesForDay(day) {
+  return data.filter(classInfo => classInfo.days.includes(day));
+}
 
+// Example usage: Get classes for 'A' day
+const DayClasses = getClassesForDay(inputField.val());
+console.log(DayClasses);
 
-  console.log(result.className);
   scheduleBody.append()
 };
 
